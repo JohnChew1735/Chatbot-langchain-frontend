@@ -1,0 +1,40 @@
+.react-chatbot-kit-chat-container {
+  width: 90%; /* Adjust the width */
+  height: 100%; /* Adjust the height */
+  border-radius: 10px; /* Optional: rounded corners */
+}
+
+.react-chatbot-kit-chat-inner-container {
+  height: 90vh;
+}
+
+/* Increase chatbot message size */
+.react-chatbot-kit-chat-message {
+  font-size: 20px;
+  padding: 20px;
+}
+
+/* Style chatbot input */
+.react-chatbot-kit-chat-input {
+  font-size: 18px;
+  padding: 12px;
+}
+
+/* Resize chatbot button */
+.react-chatbot-kit-chat-btn-send {
+  width: 50px;
+  height: 50px;
+}
+
+.react-chatbot-kit-chat-bot-message {
+  margin-right: auto;
+  margin-left: unset;
+}
+
+.react-chatbot-kit-chat-message-container {
+  height: 900px;
+}
+
+.react-chatbot-kit-chat-input-container {
+  bottom: auto;
+}
